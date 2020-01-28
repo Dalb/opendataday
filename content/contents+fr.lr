@@ -1,4 +1,4 @@
-_model: home
+_model: Accueil
 ---
 next_date: 2020-03-07
 ---
@@ -99,7 +99,7 @@ Utilisez [data.world](https://data.world) pour télécharger ou trouver des donn
 Si vous avez des données mais que vous ne savez pas où les mettre, utilisez [DataHub](https://datahub.io). Vous pouvez publier des ensembles de données, [rechercher des données pertinentes](https://datahub.io/search), [parcourir des collections de données thématiques](https://datahub.io/collections) et [demander de l'aide](https://gitter.im/datahubio/chat).
 
 ---
-resources_ideas_theme_1: Données environmentalales
+resources_ideas_theme_1: Données environmentales
 ---
 resources_ideas_theme_1_text:
 
