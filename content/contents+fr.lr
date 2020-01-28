@@ -2,65 +2,63 @@ _model: home
 ---
 next_date: 2020-03-07
 ---
-title: Tu es invité
+title: Vous êtes invité
 ---
-banner_heading_1: Tu es invité.
+banner_heading_1: Vous êtes invité.
 ---
 banner_heading_2: Encore!
 ---
-banner_content_1: Open Data Day 2020 arrive le
+banner_content_1: La Journée des Données Ouvertes 2020 a lieu le
 ---
-banner_content_2: Le samedi 7 mars
+banner_content_2: Samedi 7 mars
 ---
-intro_heading: C'est quoi Open Data Day?
+intro_heading: Qu'est-ce que la Journée des Données Ouvertes ?
 ---
-intro_body:
-
-La Journée des données ouvertes est une célébration annuelle des données ouvertes dans le monde entier. Pour la dixième fois, des groupes du monde entier créeront des événements locaux le jour où ils utiliseront des données ouvertes dans leurs communautés. C'est une occasion de montrer les avantages des données ouvertes et d'encourager l'adoption de politiques de données ouvertes au sein des gouvernements, des entreprises et de la société civile.
+intro_body:La Journée des données ouvertes est une célébration annuelle des données ouvertes dans le monde entier. Pour la dixième fois, des groupes dans le monde entier créeront des événements locaux en utilisant des données ouvertes de leurs communautés. C'est l'occasion de montrer les avantages des données ouvertes et d'encourager l'adoption de politiques sur les données ouvertes au sein des gouvernements, des entreprises et de la société civile.
 ---
 intro_body_2:
 
-Toutes les sorties sont ouvertes à tous pour être utilisées et réutilisées.
+Toutes les productions de cette journée sont ouvertes à tous pour être utilisées et réutilisées.
 ---
 year_intro:
 
-Pour l'Open Data Day 2020, nous voulons que la communauté continue de croître. Nous accorderons des mini-subventions sur certains domaines clés pour les données ouvertes. Tu peux voir les pistes pour cette année ci-dessous.
+Pour la Journée des Données Ouvertes 2020, nous voulons que la communauté continue de croître. Nous accorderons des mini-subventions sur certains domaines clés pour les données ouvertes. Ci-après les pistes proposées pour cette année 2020.
 ---
 year_label_1: Données **environnementales**
 ---
-year_label_2: Suivi des **flux financiers** publics
+year_label_2: Suivi des **financements** publics
 ---
 year_label_3: **Cartographie** ouverte
 ---
-year_label_4: Données pour le **développement équitable**
+year_label_4: Données pour un **développement équitable**
 ---
-register_text: Inscrivez votre événement ici
+register_text: Enregistrez votre événement ici
 ---
 events_registered: Événements enregistrés jusqu'à présent
 ---
-who_heading: C'est pour qui? Pour tout le monde!
+who_heading: Pour qui? Pour tout le monde!
 ---
 who_body:
 
-Si t'as une idée pour utiliser des données ouvertes, si tu veux trouver un projet intéressant auquel contribuer, apprendre comment visualiser ou analyser des données - ou si tu veux simplement voir ce qui se passe, alors viens-y! La participation est une valeur fondamentale de la Journée des Données Ouvertes, ou chacun est libre d'exprimer ses opinions de manière constructive. Quels que soient vos compétences ou vos intérêts, nous encourageons les organisateurs à favoriser les opportunités pour apprendre et pour aider la communauté mondiale des données ouvertes à se développer.
+Si vous avez une idée d'utilisation de données ouvertes, si vous souhaitez trouver un projet intéressant auquel contribuer, apprendre à visualiser ou à analyser des données - ou si vous voulez simplement voir ce qui se passe, venez participer ! La participation est une valeur fondamentale de la Journée des Données Ouvertes, chacun est libre d'y exprimer ses opinions de manière constructive. Quels que soient vos compétences ou vos centres d'intérêt, nous encourageons les organisateurs à favoriser les opportunités pour apprendre et à aider la communauté de la Journée des Données Ouvertes à se développer.
 ---
-who_title_1: Peuple
+who_title_1: Individus
 ---
 who_description_1:
 
-C'est vous dont nous avons le plus besoin. Sans toi, tout ça n'arriverait pas. D'où que tu viennes et quelles que soient tes origines, on a besoin de toi.
+C'est de vous dont nous avons le plus besoin. Sans vous, rien n'arriverait. D'où que vous veniez et quel que soit votre parcours, nous avons besoin de vous.
 ---
-who_title_2: Les fonctionnaires
+who_title_2: Agents publics
 ---
 who_description_2:
 
-Vos commentaires et votre contexte peuvent nous aider à améliorer les données gouvernementales. Venez converser et apprendre.
+Votre contribution et votre situation peuvent nous aider à améliorer les données publiques. Venez échanger et apprendre.
 ---
-who_title_3: Designers
+who_title_3: Concepteurs
 ---
 who_description_3:
 
-Aidez-nous à rendre les données ouvertes fiables, afin que plus de gens les utilisent et les comprennent.
+Aidez-nous à rendre les données ouvertes "racontables", afin que plus de personnes les utilisent et les comprennent.
 ---
 who_title_4: Developpeurs
 ---
@@ -72,13 +70,13 @@ who_title_5: Statisticiens
 ---
 who_description_5:
 
-Utilisez vos compétences pour aider à comprendre les données et en tirer des enseignements importants.
+Utilisez vos compétences pour aider à comprendre les données et à en tirer des enseignements importants.
 ---
 resources_heading: Ressources
 ---
 resources_intro:
 
-Besoin d'inspiration pour un événement Open Data Day, où trouver les données dont tu as besoin? Consulte nos ressources pour l'événement 2020.
+Besoin d'inspiration pour un événement des Journées des Données Ouvertes ? Vous ne savez pas où trouver les données dont vous avez besoin ? Consultez les ressources pour l'événement 2020.
 ---
 resources_button: Ressources
 ---
@@ -86,22 +84,22 @@ resources_materials_heading: Matériaux
 ---
 resources_materials_text:
 
-Crée un logo pour l'événement dans votre ville en utilisant le [générateur de logo](http://odd.structure-and-representation.com/) !
+Créez un logo pour l'événement dans votre ville en utilisant le [générateur de logo](http://odd.structure-and-representation.com/) !
 ---
 resources_ideas_heading: Idées et sources de données
 ---
 resources_ideas_intro:
 
-Hé là, amateur de données ouvertes! L'Open Data Day aura lieu le samedi 7 mars 2020 et tu as l'intéresse à organiser un événement dans ton localité? Le seul défi est maintenant de trouver l'idée qui te convient le mieux. Nos amis de la communauté open data ont des idées et des sources de données qui valent la peine d'être consultées.
+Vous, amateur de données ouvertes! La Journée des Données Ouvertes aura lieu le samedi 7 mars 2020 et vous êtes intéressé pour organiser un événement dans votre localité ? Le seul défi est maintenant de trouver l'idée qui vous convient le mieux. Nos amis de la communauté données ouvertes ont des idées et des sources de données qui valent la peine d'être consultées.
 
-Visite le [site Web CKAN.org](https://ckan.org/about/instances/) pour découvrir toutes les organisations du monde entier qui utilisent CKAN pour publier leurs données.
+Visitez le [site Web CKAN.org](https://ckan.org/about/instances/) pour découvrir toutes les organisations du monde entier qui utilisent CKAN pour publier leurs données.
 
-Utilise [data.world](https://data.world) pour télécharger ou trouver des données provenant de nombreuses sources et organiser tous les aspects d'un projet - y compris les données, les carnets, les analyses et les discussions - dans un seul espace de travail.
+Utilisez [data.world](https://data.world) pour télécharger ou trouver des données provenant de nombreuses sources et pour organiser tous les aspects d'un projet - y compris les données, les documentations, les analyses et les discussions - dans un seul espace de travail.
 
-S'il y a des données mais on ne sait pas où les mettre, utilise [DataHub](https://datahub.io). On peut publier des ensembles de données, [rechercher des données pertinentes](https://datahub.io/search), [parcourir des collections de données thématiques](https://datahub.io/collections) et [demander de l'aide](https://gitter.im/datahubio/chat) avec la publication de données ouverte.
+Si vous avez des données mais que vous ne savez pas où les mettre, utilisez [DataHub](https://datahub.io). Vous pouvez publier des ensembles de données, [rechercher des données pertinentes](https://datahub.io/search), [parcourir des collections de données thématiques](https://datahub.io/collections) et [demander de l'aide](https://gitter.im/datahubio/chat).
 
 ---
-resources_ideas_theme_1: Environmental data
+resources_ideas_theme_1: Données environmentalales
 ---
 resources_ideas_theme_1_text:
 
